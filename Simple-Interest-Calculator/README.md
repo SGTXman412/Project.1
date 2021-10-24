@@ -1,4 +1,4 @@
-Project.1
+PROJECT.1
 
 Simple-Interest-Calculator
 
